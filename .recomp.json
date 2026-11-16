@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Reaches the Basketball menus. Known problem: starting a match stops the game (its code modules are compressed on the disc and aren't translated yet). Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays a Basketball exhibition's tutorial match at 60 fps, no graphics errors seen. All nine of the game's code modules run as native code. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
